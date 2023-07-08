@@ -1,0 +1,20 @@
+body{
+background-color:aqua;
+font-family:Monotype Corsiva;
+}
+h1{
+color:blue;
+font-family:Cooper;
+}
+p{
+font-family:Monotype Corsiva;
+color:magenta;
+font-size:30px;
+}
+table,tr,td,th{
+border:1px solid red;
+text-align:center;
+padding:5px;
+border-collapse:collapse;
+background-color:green;
+}
